@@ -10,7 +10,7 @@ The combined interface includes three tabs:
 
 To run remotely:
 
-- Access the tool at https://relationshapez.github.io/graphtester/
+- Access the tool at https://relationshapez.github.io/graph_tester/
 
 ## Files
 
